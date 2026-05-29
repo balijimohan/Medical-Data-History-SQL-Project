@@ -1,16 +1,16 @@
 # 🏥 Medical Data History SQL Project
 
-## 📌 Project Overview
+##  Project Overview
 The Medical Data History SQL Project is a healthcare data analytics project designed to analyze patient records, admissions, diagnoses, doctor information, and medical history using SQL. The project demonstrates practical SQL skills through real-world healthcare data analysis and reporting.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 The primary objective of this project is to analyze healthcare data and generate meaningful insights using SQL queries. The project focuses on patient demographics, medical conditions, hospital admissions, doctor-patient relationships, and regional healthcare trends.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - SQL
 - MySQL / PostgreSQL
 - pgAdmin / MySQL Workbench
@@ -19,7 +19,7 @@ The primary objective of this project is to analyze healthcare data and generate
 
 ---
 
-## 📂 Database Information
+##  Database Information
 **Database Name:** `project_medical_data_history`
 
 ### Tables Used
@@ -30,7 +30,7 @@ The primary objective of this project is to analyze healthcare data and generate
 
 ---
 
-## 🧹 SQL Concepts Implemented
+##  SQL Concepts Implemented
 
 ### Basic SQL Operations
 - SELECT Statements
@@ -99,7 +99,7 @@ The primary objective of this project is to analyze healthcare data and generate
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Identified the total number of male and female patients
 - Analyzed the most common allergies among patients
 - Evaluated obesity levels using BMI calculations
@@ -109,7 +109,7 @@ The primary objective of this project is to analyze healthcare data and generate
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 - SQL Query Writing
 - Data Analysis
 - Database Management
@@ -120,7 +120,7 @@ The primary objective of this project is to analyze healthcare data and generate
 
 ---
 
-## 📈 Project Outcome
+##  Project Outcome
 This project successfully demonstrates practical SQL skills required for Data Analyst roles. Through healthcare data analysis, the project showcases the ability to work with relational databases, perform advanced SQL querying, and generate meaningful business insights from structured datasets.
 
 ---
